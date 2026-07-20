@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello
+I'm 15 year old student interested in programming backend & web for now. I want to pursue career in C family languages.
 
-<!--
-**hhizo/hhizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
 
-Here are some ideas to get you started:
+<summary><h2>@interests</h2></summary>
+<p>
+    <ul>
+      <li>
+        C
+      </li>
+      <li>
+        PHP
+      </li>
+      <li>
+        Lua
+      </li>
+      <li>
+        TypeScript
+      </li>
+    </ul>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+
+## Contact
+
+Contact me at: `wiktorr@tuta.io`
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=hhizo&layout=compact&hide_title=true&langs_count=4&theme=github_dark_dimmed)
