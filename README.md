@@ -3,7 +3,7 @@ I'm 15 year old student interested in programming backend & web for now. I want 
 
 <details>
 
-<summary><h2>@interests</h2></summary>
+<summary><h2>interests</h2></summary>
 <p>
     <ul>
       <li>
@@ -17,6 +17,9 @@ I'm 15 year old student interested in programming backend & web for now. I want 
       </li>
       <li>
         TypeScript
+      </li>
+      <li>
+        Kotlin
       </li>
     </ul>
 </p>
