@@ -7,9 +7,6 @@ I'm 15 year old student interested in programming backend & web for now. I want 
 <p>
     <ul>
       <li>
-        C
-      </li>
-      <li>
         PHP
       </li>
       <li>
@@ -20,6 +17,9 @@ I'm 15 year old student interested in programming backend & web for now. I want 
       </li>
       <li>
         Kotlin
+      </li>
+      <li>
+        SCSS
       </li>
     </ul>
 </p>
