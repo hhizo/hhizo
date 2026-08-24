@@ -1,33 +1,16 @@
-# Hello
-I'm 15 year old student interested in programming backend & web for now. I want to pursue career in C family languages.
+I'm 15 year old student interested in programming backend & web.
 
-<details>
+## Tech
+My main interests are:
 
-<summary><h2>interests</h2></summary>
-<p>
-    <ul>
-      <li>
-        PHP
-      </li>
-      <li>
-        Lua
-      </li>
-      <li>
-        TypeScript
-      </li>
-      <li>
-        Kotlin
-      </li>
-      <li>
-        SCSS
-      </li>
-    </ul>
-</p>
-
-</details>
+* Cybersecurity
+* OSINT
+* Web security
+* Backend & web development
+* Programming in languages like GoLang, TypeScript, PHP and in lua
 
 ## Contact
 
 Contact me at: `wiktorr@tuta.io`
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=hhizo&layout=compact&hide_title=true&langs_count=4&theme=github_dark_dimmed)
+ <img src="https://count.getloli.com/@hhizo?name=hhizo&theme=original-old&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=auto"  alt=""/>
